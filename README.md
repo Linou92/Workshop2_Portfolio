@@ -1,3 +1,6 @@
+Live demo : https://linou92.github.io/Workshop2_Portfolio/
+
+
 ![Lexicon Logo](https://lexicongruppen.se/media/wi5hphtd/lexicon-logo.svg)
 
 # 🛠️ Workshop: Building a Portfolio Page
